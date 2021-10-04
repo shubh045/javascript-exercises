@@ -1,5 +1,5 @@
-const findTheOldest = function() {
-
+const findTheOldest = function(objArray) {
+ 
 };
 
 // Do not edit below this line
